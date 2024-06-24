@@ -1,1 +1,1 @@
-This repository includes various data analytics projects using python
+This repository includes various data analytics projects using python and PowerBI
