@@ -1,1 +1,1 @@
-This repository includes various data analytics projects using python and PowerBI
+This repository includes various data analytics projects done during internship using python and PowerBI
